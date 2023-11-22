@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    justify-content: center;
+}
+#caja{
+    display: flex;
+}
+#datos{
+    display: inline-block;
+    width: 50%;
+    margin: 5px;
+    border: 2px solid black;
+    padding: 5px;
+}
+#resultados{
+    display: inline-block;
+    width: 50%;
+    margin: 5px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#btn1{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
